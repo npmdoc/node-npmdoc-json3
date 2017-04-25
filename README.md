@@ -1,4 +1,7 @@
-# api documentation for  [json3 (v3.3.2)](http://bestiejs.github.io/json3)  [![npm package](https://img.shields.io/npm/v/npmdoc-json3.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-json3) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-json3.svg)](https://travis-ci.org/npmdoc/node-npmdoc-json3)
+# npmdoc-json3
+
+#### basic api documentation for  [json3 (v3.3.2)](http://bestiejs.github.io/json3)  [![npm package](https://img.shields.io/npm/v/npmdoc-json3.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-json3) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-json3.svg)](https://travis-ci.org/npmdoc/node-npmdoc-json3)
+
 #### A modern JSON implementation compatible with nearly all JavaScript platforms.
 
 [![NPM](https://nodei.co/npm/json3.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json3)
@@ -114,7 +117,8 @@
             "test",
             "vendor"
         ]
-    }
+    },
+    "bin": {}
 }
 ```
 
